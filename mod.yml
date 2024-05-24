@@ -1,0 +1,245 @@
+title: KH2SephirothAS
+originalAuthor: You
+description: Generated on Fri, 24 May 2024 18:08:54 GMT
+dependencies: 
+assets:
+- name: ard/fr/hb01.ard
+  method: copy
+  source:
+  - name: ard/fr/hb01.ard
+- name: ard/gr/hb01.ard
+  method: copy
+  source:
+  - name: ard/gr/hb01.ard
+- name: ard/it/hb01.ard
+  method: copy
+  source:
+  - name: ard/it/hb01.ard
+- name: ard/sp/hb01.ard
+  method: copy
+  source:
+  - name: ard/sp/hb01.ard
+- name: ard/us/hb01.ard
+  method: copy
+  source:
+  - name: ard/us/hb01.ard
+- name: event/effect/cz_event_000.pax
+  method: copy
+  source:
+  - name: event/effect/cz_event_000.pax
+- name: event/effect/cz_event_001.pax
+  method: copy
+  source:
+  - name: event/effect/cz_event_001.pax
+- name: msg/fr/hb.bar
+  method: copy
+  source:
+  - name: msg/fr/hb.bar
+- name: msg/gr/hb.bar
+  method: copy
+  source:
+  - name: msg/gr/hb.bar
+- name: msg/it/hb.bar
+  method: copy
+  source:
+  - name: msg/it/hb.bar
+- name: msg/sp/hb.bar
+  method: copy
+  source:
+  - name: msg/sp/hb.bar
+- name: msg/us/hb.bar
+  method: copy
+  source:
+  - name: msg/us/hb.bar
+- name: obj/F_CZ240.a.jp
+  method: copy
+  source:
+  - name: obj/F_CZ240.a.jp
+- name: obj/F_CZ240.a.us
+  method: copy
+  source:
+  - name: obj/F_CZ240.a.us
+- name: obj/F_CZ240.mdlx
+  method: copy
+  source:
+  - name: obj/F_CZ240.mdlx
+- name: remastered/obj/F_CZ240.a.jp/-0.dds
+  method: copy
+  source:
+  - name: remastered/obj/F_CZ240.a.jp/-0.dds
+- name: remastered/obj/F_CZ240.a.jp/-1.dds
+  method: copy
+  source:
+  - name: remastered/obj/F_CZ240.a.jp/-1.dds
+- name: remastered/obj/F_CZ240.a.jp/-2.dds
+  method: copy
+  source:
+  - name: remastered/obj/F_CZ240.a.jp/-2.dds
+- name: remastered/obj/F_CZ240.a.jp/-3.dds
+  method: copy
+  source:
+  - name: remastered/obj/F_CZ240.a.jp/-3.dds
+- name: remastered/obj/F_CZ240.a.jp/-4.dds
+  method: copy
+  source:
+  - name: remastered/obj/F_CZ240.a.jp/-4.dds
+- name: remastered/obj/F_CZ240.a.jp/-5.dds
+  method: copy
+  source:
+  - name: remastered/obj/F_CZ240.a.jp/-5.dds
+- name: remastered/obj/F_CZ240.a.us/-0.dds
+  method: copy
+  source:
+  - name: remastered/obj/F_CZ240.a.us/-0.dds
+- name: remastered/obj/F_CZ240.a.us/-1.dds
+  method: copy
+  source:
+  - name: remastered/obj/F_CZ240.a.us/-1.dds
+- name: remastered/obj/F_CZ240.a.us/-2.dds
+  method: copy
+  source:
+  - name: remastered/obj/F_CZ240.a.us/-2.dds
+- name: remastered/obj/F_CZ240.a.us/-3.dds
+  method: copy
+  source:
+  - name: remastered/obj/F_CZ240.a.us/-3.dds
+- name: remastered/obj/F_CZ240.a.us/-4.dds
+  method: copy
+  source:
+  - name: remastered/obj/F_CZ240.a.us/-4.dds
+- name: remastered/obj/F_CZ240.a.us/-5.dds
+  method: copy
+  source:
+  - name: remastered/obj/F_CZ240.a.us/-5.dds
+- name: remastered/event/effect/cz_event_000.pax/-0.dds
+  method: copy
+  source:
+  - name: remastered/event/effect/cz_event_000.pax/-0.dds
+- name: remastered/event/effect/cz_event_000.pax/-1.dds
+  method: copy
+  source:
+  - name: remastered/event/effect/cz_event_000.pax/-1.dds
+- name: remastered/event/effect/cz_event_000.pax/-10.dds
+  method: copy
+  source:
+  - name: remastered/event/effect/cz_event_000.pax/-10.dds
+- name: remastered/event/effect/cz_event_000.pax/-11.dds
+  method: copy
+  source:
+  - name: remastered/event/effect/cz_event_000.pax/-11.dds
+- name: remastered/event/effect/cz_event_000.pax/-12.dds
+  method: copy
+  source:
+  - name: remastered/event/effect/cz_event_000.pax/-12.dds
+- name: remastered/event/effect/cz_event_000.pax/-2.dds
+  method: copy
+  source:
+  - name: remastered/event/effect/cz_event_000.pax/-2.dds
+- name: remastered/event/effect/cz_event_000.pax/-3.dds
+  method: copy
+  source:
+  - name: remastered/event/effect/cz_event_000.pax/-3.dds
+- name: remastered/event/effect/cz_event_000.pax/-4.dds
+  method: copy
+  source:
+  - name: remastered/event/effect/cz_event_000.pax/-4.dds
+- name: remastered/event/effect/cz_event_000.pax/-5.dds
+  method: copy
+  source:
+  - name: remastered/event/effect/cz_event_000.pax/-5.dds
+- name: remastered/event/effect/cz_event_000.pax/-6.dds
+  method: copy
+  source:
+  - name: remastered/event/effect/cz_event_000.pax/-6.dds
+- name: remastered/event/effect/cz_event_000.pax/-7.dds
+  method: copy
+  source:
+  - name: remastered/event/effect/cz_event_000.pax/-7.dds
+- name: remastered/event/effect/cz_event_000.pax/-8.dds
+  method: copy
+  source:
+  - name: remastered/event/effect/cz_event_000.pax/-8.dds
+- name: remastered/event/effect/cz_event_000.pax/-9.dds
+  method: copy
+  source:
+  - name: remastered/event/effect/cz_event_000.pax/-9.dds
+- name: remastered/event/effect/cz_event_001.pax/-0.dds
+  method: copy
+  source:
+  - name: remastered/event/effect/cz_event_001.pax/-0.dds
+- name: remastered/event/effect/cz_event_001.pax/-1.dds
+  method: copy
+  source:
+  - name: remastered/event/effect/cz_event_001.pax/-1.dds
+- name: remastered/event/effect/cz_event_001.pax/-10.dds
+  method: copy
+  source:
+  - name: remastered/event/effect/cz_event_001.pax/-10.dds
+- name: remastered/event/effect/cz_event_001.pax/-11.dds
+  method: copy
+  source:
+  - name: remastered/event/effect/cz_event_001.pax/-11.dds
+- name: remastered/event/effect/cz_event_001.pax/-12.dds
+  method: copy
+  source:
+  - name: remastered/event/effect/cz_event_001.pax/-12.dds
+- name: remastered/event/effect/cz_event_001.pax/-2.dds
+  method: copy
+  source:
+  - name: remastered/event/effect/cz_event_001.pax/-2.dds
+- name: remastered/event/effect/cz_event_001.pax/-3.dds
+  method: copy
+  source:
+  - name: remastered/event/effect/cz_event_001.pax/-3.dds
+- name: remastered/event/effect/cz_event_001.pax/-4.dds
+  method: copy
+  source:
+  - name: remastered/event/effect/cz_event_001.pax/-4.dds
+- name: remastered/event/effect/cz_event_001.pax/-5.dds
+  method: copy
+  source:
+  - name: remastered/event/effect/cz_event_001.pax/-5.dds
+- name: remastered/event/effect/cz_event_001.pax/-6.dds
+  method: copy
+  source:
+  - name: remastered/event/effect/cz_event_001.pax/-6.dds
+- name: remastered/event/effect/cz_event_001.pax/-7.dds
+  method: copy
+  source:
+  - name: remastered/event/effect/cz_event_001.pax/-7.dds
+- name: remastered/event/effect/cz_event_001.pax/-8.dds
+  method: copy
+  source:
+  - name: remastered/event/effect/cz_event_001.pax/-8.dds
+- name: remastered/event/effect/cz_event_001.pax/-9.dds
+  method: copy
+  source:
+  - name: remastered/event/effect/cz_event_001.pax/-9.dds
+- name: remastered/msg/fr/hb.bar/FR_hb_bar0.png
+  method: copy
+  source:
+  - name: remastered/msg/fr/hb.bar/FR_hb_bar0.png
+- name: remastered/msg/gr/hb.bar/GR_hb_bar0.png
+  method: copy
+  source:
+  - name: remastered/msg/gr/hb.bar/GR_hb_bar0.png
+- name: remastered/msg/it/hb.bar/IT_hb_bar0.png
+  method: copy
+  source:
+  - name: remastered/msg/it/hb.bar/IT_hb_bar0.png
+- name: remastered/msg/sp/hb.bar/SP_hb_bar0.png
+  method: copy
+  source:
+  - name: remastered/msg/sp/hb.bar/SP_hb_bar0.png
+- name: remastered/msg/us/hb.bar/US_hb_bar0.png
+  method: copy
+  source:
+  - name: remastered/msg/us/hb.bar/US_hb_bar0.png
+- name: remastered/obj/F_CZ240.a.jp/se/obj/se399
+  method: copy
+  source:
+  - name: remastered/obj/F_CZ240.a.jp/se/obj/se399
+- name: remastered/obj/F_CZ240.a.us/se/obj/se399
+  method: copy
+  source:
+  - name: remastered/obj/F_CZ240.a.us/se/obj/se399
